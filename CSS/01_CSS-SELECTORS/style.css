@@ -1,0 +1,65 @@
+li{
+    font-weight: 700;
+}
+
+.html{
+    color:red;
+}
+
+.css{
+    color: blue;
+}
+
+.js{
+    color: rgb(203, 206, 19);
+}
+
+.react{
+    color: rgb(7, 154, 180);
+}
+
+.tailwind{
+    color: rgb(5, 122, 126);
+}
+
+#html{
+  font-size: 32px;
+}
+
+
+#css{
+    font-size: 32px;
+}
+
+
+#js{
+    font-size: 32px;
+} 
+
+
+#react{
+    font-size: 32px;
+}
+
+
+#tailwind{
+    font-size: 32px;
+}
+
+/* [class]{
+    background-color: blueviolet;
+} */
+
+[beg]{
+    background-color: chartreuse;
+}
+
+[begr]{
+    background-color: cadetblue;
+}
+h1:hover{
+    color: darkmagenta;
+}
+p:hover{
+    color: coral;
+}
