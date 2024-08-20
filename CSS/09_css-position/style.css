@@ -1,0 +1,58 @@
+body{
+    position: absolute;
+    background-color: darkgray;
+    top: 10px;
+    left: 20px;
+    right: 5px;
+    bottom: 5px;
+}
+header{
+    background-color: mediumvioletred;
+    position: sticky;
+    top:0px;
+}
+div{
+    position: relative;
+    background-color: chartreuse;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+}
+ul{
+    position: relative;
+    background-color: blueviolet;
+    top: 10px;
+    left: 20px;
+    right: 5px;
+    bottom: 5px;
+    /* inset: 10px; */
+}
+
+
+.css{
+    position: absolute;
+    background-color: aquamarine;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+}
+.js{
+    position: fixed;
+    background-color: hotpink;
+    top: 10px;
+    right: 10px;
+    left: 10px;
+    /* bottom: 10px; */
+    /* inset: 10px; */
+}
+.html{
+    position: sticky;
+    background-color: peru;
+    top: 10px;
+    right: 10px;
+    left: 10px;
+     bottom: 10px;
+     margin-top: 20px;
+}
